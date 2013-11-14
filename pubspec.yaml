@@ -1,0 +1,7 @@
+name: demo_native_extension_usage
+description: A sample command-line application
+dependencies:
+  demo_native_extension:
+    git: https://github.com/mezoni/demo_native_extension
+  package_installer:
+    git: https://github.com/mezoni/package_installer
